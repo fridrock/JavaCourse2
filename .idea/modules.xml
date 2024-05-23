@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jaba.iml" filepath="$PROJECT_DIR$/.idea/jaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jaba.practic12.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jaba.practic12.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic12.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic12.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic13.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic13.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic14.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic14.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic15.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic15.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic16.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic16.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic17.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic17.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic18.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic18.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic19.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic19.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic20.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic20.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic21.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic21.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic22.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic22.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic23.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic23.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practic24.main.iml" filepath="$PROJECT_DIR$/.idea/modules/practic24.main.iml" />
+    </modules>
+  </component>
+</project>

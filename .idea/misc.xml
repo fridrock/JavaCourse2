@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/practic12" />
+    <file type="web" url="file://$PROJECT_DIR$/practic13" />
+    <file type="web" url="file://$PROJECT_DIR$/practic14" />
+    <file type="web" url="file://$PROJECT_DIR$/practic15" />
+    <file type="web" url="file://$PROJECT_DIR$/practic16" />
+    <file type="web" url="file://$PROJECT_DIR$/practic18" />
+    <file type="web" url="file://$PROJECT_DIR$/practic19" />
+    <file type="web" url="file://$PROJECT_DIR$/practic20" />
+    <file type="web" url="file://$PROJECT_DIR$/practic21" />
+    <file type="web" url="file://$PROJECT_DIR$/practic22" />
+    <file type="web" url="file://$PROJECT_DIR$/practic23" />
+    <file type="web" url="file://$PROJECT_DIR$/practic24" />
+    <file type="web" url="file://$PROJECT_DIR$/practic9" />
+    <file type="web" url="file://$PROJECT_DIR$/task23-1" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

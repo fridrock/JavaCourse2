@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="practic24.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="practic9" target="21" />
+      <module name="practic9.main" target="21" />
+      <module name="practic9.test" target="21" />
+      <module name="ru.example.practic12" target="21" />
+      <module name="ru.example.practic12.main" target="21" />
+      <module name="ru.example.practic12.test" target="21" />
+      <module name="ru.practic17.practic16" target="21" />
+      <module name="ru.practic17.practic16.main" target="21" />
+      <module name="ru.practic17.practic16.test" target="21" />
+      <module name="ru.practic18.practic18" target="21" />
+      <module name="ru.practic18.practic18.main" target="21" />
+      <module name="ru.practic18.practic18.test" target="21" />
+      <module name="ru.practic19.practic18" target="21" />
+      <module name="ru.practic19.practic18.main" target="21" />
+      <module name="ru.practic19.practic18.test" target="21" />
+      <module name="task10" target="21" />
+      <module name="task10.main" target="21" />
+      <module name="task10.test" target="21" />
+      <module name="task12" target="17" />
+      <module name="task12.main" target="17" />
+      <module name="task12.test" target="17" />
+      <module name="task13" target="21" />
+      <module name="task13.main" target="21" />
+      <module name="task13.test" target="21" />
+      <module name="task14-1" target="21" />
+      <module name="task14-1.main" target="21" />
+      <module name="task14-1.test" target="21" />
+      <module name="task19" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

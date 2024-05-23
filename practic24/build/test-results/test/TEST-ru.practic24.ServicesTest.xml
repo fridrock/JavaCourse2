@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.practic24.ServicesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-05-22T09:33:40" hostname="FRIDROCKER" time="2.719">
+  <properties/>
+  <testcase name="deleteSubject()" classname="ru.practic24.ServicesTest" time="2.624"/>
+  <testcase name="addBank()" classname="ru.practic24.ServicesTest" time="0.036"/>
+  <testcase name="addCard()" classname="ru.practic24.ServicesTest" time="0.014"/>
+  <testcase name="getBankByName()" classname="ru.practic24.ServicesTest" time="0.008"/>
+  <testcase name="deleteBank()" classname="ru.practic24.ServicesTest" time="0.007"/>
+  <testcase name="getBanks()" classname="ru.practic24.ServicesTest" time="0.007"/>
+  <testcase name="getCards()" classname="ru.practic24.ServicesTest" time="0.008"/>
+  <system-out><![CDATA[12:33:43.588 [Test worker] INFO  ru.practic24.BankService – saving bank
+12:33:43.624 [Test worker] INFO  ru.practic24.BankService – finding bank by name
+12:33:43.633 [Test worker] INFO  ru.practic24.BankService – deleting bank
+12:33:43.641 [Test worker] INFO  ru.practic24.BankService – finding all banks
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\anlde\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.14.12\be4984cb6fd1ef1d11f218a648889dfda44b8a15\byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

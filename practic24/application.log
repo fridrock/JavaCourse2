@@ -1,0 +1,14 @@
+463  [Test worker] INFO  ru.practic24.BankService – saving bank
+506  [Test worker] INFO  ru.practic24.BankService – deleting bank
+513  [Test worker] INFO  ru.practic24.BankService – finding all banks
+526  [Test worker] INFO  ru.practic24.BankService – finding bank by name
+543  [Test worker] INFO  ru.practic24.BankService – saving bank
+574  [Test worker] INFO  ru.practic24.BankService – deleting bank
+583  [Test worker] INFO  ru.practic24.BankService – finding all banks
+604  [Test worker] INFO  ru.practic24.BankService – finding bank by name
+538  [Test worker] INFO  ru.practic24.BankService – finding bank by name
+585  [Test worker] INFO  ru.practic24.BankService – finding bank by name
+622  [Test worker] INFO  ru.practic24.BankService – saving bank
+658  [Test worker] INFO  ru.practic24.BankService – finding bank by name
+667  [Test worker] INFO  ru.practic24.BankService – deleting bank
+675  [Test worker] INFO  ru.practic24.BankService – finding all banks
